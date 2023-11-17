@@ -1,0 +1,20 @@
+
+                [
+          {
+            "model": "dashboard26app.dashboard",
+            "pk": 1,
+            "fields": {
+              "title": "Forocoches",
+              "description": "Test"
+            }
+          },
+          {
+            "model": "dashboard26app.dashboard",
+            "pk": 2,
+            "fields": {
+              "title": "Foromotos",
+              "description": "Test"
+            }
+          }
+        ]
+                
